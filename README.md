@@ -53,6 +53,7 @@ Valuation Matrix #1:
 
 Egalitarian allocation computed with minimum utility value: 61.91390727
 Allocation Table:
+
 +---------+------------+------------+------------+---------------+
 |  Agent  | Resource 1 | Resource 2 | Resource 3 | Total Utility |
 +---------+------------+------------+------------+---------------+
@@ -68,6 +69,7 @@ Valuation Matrix #2:
 
 Egalitarian allocation computed with minimum utility value: 14.92537313
 Allocation Table:
+
 +---------+------------+------------+------------+---------------+
 |  Agent  | Resource 1 | Resource 2 | Resource 3 | Total Utility |
 +---------+------------+------------+------------+---------------+
@@ -84,6 +86,7 @@ Valuation Matrix #3:
 
 Egalitarian allocation computed with minimum utility value: 19.50000000
 Allocation Table:
+
 +---------+------------+------------+------------+---------------+
 |  Agent  | Resource 1 | Resource 2 | Resource 3 | Total Utility |
 +---------+------------+------------+------------+---------------+
