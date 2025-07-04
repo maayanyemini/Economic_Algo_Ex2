@@ -42,7 +42,5 @@ Given a matrix where each row represents a person and each column represents a r
 -Maximizes that minimum utility, ensuring the fairest possible distribution.
 -Outputs results in a well-formatted table.
 
-
-## Get Started 🚀
+## Get Started 
 Clone this repo or copy the script into your own environment, install the required packages, and run the code to see egalitarian fairness in action.
-
